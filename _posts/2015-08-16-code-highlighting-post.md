@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Syntax Highlighting Post"
-tags: [sample post, code, highlighting]
+tags: 
+  - test
+  - tags
 comments: true
 ---
 
