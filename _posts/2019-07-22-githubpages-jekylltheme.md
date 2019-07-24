@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GitHub Pages with Jekyll Themes"
-tags: [Blog]
+tags: [jekyll]
 comments: true
 ---
 
@@ -53,6 +53,7 @@ jekyll 서버를 실행해 개발 환경에서 기본 블로그 테마가 설정
 
 브라우저로 http://127.0.0.1:4000 에 접속!
 
+```jekyll build```
 
 ##### 7. 원하는 테마 적용하기
 

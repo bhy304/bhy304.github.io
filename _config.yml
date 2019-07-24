@@ -28,8 +28,6 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: /
 
 # Pagination
 paginate: 5
