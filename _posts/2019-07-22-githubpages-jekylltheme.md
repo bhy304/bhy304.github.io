@@ -9,13 +9,13 @@ Jekyll Theme을 적용한 블로그 만들기
 
 ---
 
-## 준비물
+# 준비물
 
 ###### 1. Git 설치
 ###### 2. GitHub 가입 (GitHub 계정 필요!)
 ###### 3. Ruby for Windows 설치
 
-## Windows에서 Jekyll Theme 적용한 블로그 만들기
+# Windows에서 Jekyll Theme 적용한 블로그 만들기
 
 ##### 1. Ruby 설치
     
