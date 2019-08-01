@@ -24,10 +24,10 @@ navigation:
     url: /about
   - name: Blog
     url: /
-  - name: Archive
-    url: /archive
   - name: Tags
     url: /tags
+  - name: Archive
+    url: /archive
 
 # Pagination
 paginate: 5
