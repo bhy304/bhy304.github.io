@@ -32,19 +32,21 @@ Call Stack은 자바스크립트의 To Do List와 같다.
 코드를 통해 알아보자. 
 
 ```javascript
-function three () {
-    console.log('I love JS');
-    // throw Error("omg Im an Error");
+function three() {
+    console.log('I love JS');
+    // throw Error('omg Im an Error');
 }
-function two () {
-    three();
+function two() {
+    three();
 }
-function one () {
-    two();
+function one() {
+    two();
 }
-function zero () {
-    one();
-    // throw Error("omg Im an Error");
+function zero() {
+    one();
+    // throw Error('omg Im an Error');
 }
 zero();
 ```
+
+![callstack](/assets/img/callstack.gif){: center-image}
