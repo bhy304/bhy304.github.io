@@ -9,5 +9,5 @@ permalink: /til/
 **[```Today I Learned```](https://bhy0512.gitbook.io/til/)**
 
 *** 
-- [ ] JavaScript30
-- [ ] Algorithm
+- [ ] 개발 공부
+- [ ] 매일 알고리즘 풀기
