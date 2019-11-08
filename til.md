@@ -11,3 +11,13 @@ permalink: /til/
 *** 
 - [ ] 개발 공부
 - [ ] 매일 알고리즘 풀기
+
+***
+## SUMMARY
+- Data Structure & Algorithm
+- JavaScript
+- Python
+- Git
+- Docker
+- ML
+- Server
