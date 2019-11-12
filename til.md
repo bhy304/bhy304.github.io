@@ -4,20 +4,10 @@ title: TODAY I LEARNED
 permalink: /til/
 ---
 
-개발 공부를 하며 정리하는 공간입니다. 
+ 📝 개발 공부를 하며 배운 것을 정리하고 기록합니다.
 
-**[```Today I Learned```](https://bhy0512.gitbook.io/til/)**
+**[```Today I Learned```](https://hayeonbaek.gitbook.io/til/)**
 
 *** 
 - [ ] 개발 공부
-- [ ] 매일 알고리즘 풀기
-
-***
-## SUMMARY
-- Data Structure & Algorithm
-- JavaScript
-- Python
-- Git
-- Docker
-- ML
-- Server
+- [ ] 알고리즘 문제 풀기
