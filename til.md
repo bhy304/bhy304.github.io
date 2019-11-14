@@ -9,5 +9,7 @@ permalink: /til/
 **[```Today I Learned```](https://hayeonbaek.gitbook.io/til/)**
 
 *** 
+## 📍 TO DO 
 - [ ] 개발 공부
 - [ ] 알고리즘 문제 풀기
+- [ ] 1일 1Commit 실천
