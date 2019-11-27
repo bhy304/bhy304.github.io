@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "#1 Call Stack"
+title: "자바스크립트 개발자가 알아야 하는 33가지 개념 #1 호출 스택"
 tags: [JavaScript]
 comments: true
 ---
 
-자바스크립트 개발자라면 알아야하는 핵심 컨셉 33개 #1_Call Stack
+호출 스택(Call Stack)
 
 --- 
 
@@ -50,3 +50,8 @@ zero();
 ```
 
 ![callstack](/assets/img/callstack.gif){: center-image}
+
+---
+
+# Reference
+* [33-js-concepts](https://github.com/leonardomso/33-js-concepts)

@@ -24,12 +24,12 @@ navigation:
     url: /about
   # - name: Blog
   #   url: /
-  - name: ARCHIVE
-    url: /archive
   - name: TIL
     url: /til
-  # - name: Tags
-  #   url: /tags
+  - name: ARCHIVE
+    url: /archive
+  - name: TAGS
+    url: /tags
 
 # Pagination
 paginate: 5
