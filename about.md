@@ -4,8 +4,6 @@ title: HAYEON BAEK
 permalink: /about/
 ---
 
-[```[구직중] 이력서 RESUME```](https://docs.google.com/document/d/1DNZvo7VMSCCIViIXoIQghhKnj_NwQhtvKrdMQt2EWME/edit?usp=sharing)
-
 ![HayeonBaek](/assets/img/IMG_8457.JPG){: center-image}
 
 **함께 모여 공부하고 정보를 공유하는 것을 좋아하는 개발자입니다.**
