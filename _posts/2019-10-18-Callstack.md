@@ -49,7 +49,7 @@ function zero() {
 zero();
 ```
 
-![callstack](/assets/img/callstack.gif){: center-image}
+![callstack](/assets/images/callstack.gif){: center-image}
 
 ---
 
