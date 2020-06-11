@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GitHub Pages with Jekyll Themes"
-tags: [GitHub]
+tags: [Git]
 comments: true
 ---
 
