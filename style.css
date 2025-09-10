@@ -1,0 +1,166 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #212121;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+a:hover {
+  color: #0066ff;
+}
+
+ul {
+  padding-left: 2rem;
+}
+
+ul li::marker {
+  list-style: disc;
+  color: #3b82f6;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 70px;
+  background-color: #0066ff;
+}
+
+header h1 {
+  font-size: 26px;
+  text-align: center;
+  color: white;
+}
+
+main {
+  display: flex;
+  max-width: 1000px;
+  height: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+section {
+  width: 100%;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 70px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 36px;
+  padding: 40px 0;
+  text-decoration: underline;
+  text-decoration-color: #0066ff;
+}
+
+.role-label {
+  color: #4b5563;
+}
+
+#contact,
+#projects,
+#educations,
+footer {
+  margin-top: 100px;
+}
+
+/* INTRO */
+#intro {
+  margin-top: 200px;
+}
+
+#intro h1 {
+  font-size: 50px;
+}
+
+#intro span {
+  color: #0066ff;
+}
+
+#intro p {
+  font-size: 30px;
+  font-weight: 300;
+  margin-top: 50px;
+}
+
+/* CONTACT */
+#contact .contact-list {
+  font-size: 1.5rem;
+}
+
+/* PROJECTS & EDUCATIONS */
+#projects,
+#educations {
+  font-size: 1.25rem;
+}
+
+#projects .description,
+#educations .description {
+  border-left: 2px solid #6b7280;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  color: #6b7280;
+  padding-left: 0.5rem;
+}
+
+#projects .description-list,
+#educations .description-list {
+  border-left: 2px dotted #e5e7eb;
+  grid-column: span 2 / span 2;
+  padding-left: 1rem;
+}
+
+#projects .team-project,
+#educations .edu-detail {
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 80px;
+}
+
+#projects .team-project h2 {
+  font-weight: 400;
+}
+
+#projects .tech-stack {
+  margin: 0.5rem 0;
+}
+
+#projects .tech-stack span {
+  background-color: #3b82f6;
+  color: white;
+  font-size: 0.75rem;
+  border-radius: 0.375rem;
+  padding: 0.25rem;
+}
+
+#educations .edu-detail h2 {
+  font-weight: 400;
+}
